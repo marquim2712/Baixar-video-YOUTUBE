@@ -1,21 +1,11 @@
-MIT License
 
-Copyright (c) 2024 marquim2712
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+### Considerações:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- **Instruções de instalação:** O `README.md` inclui instruções detalhadas sobre como configurar o ambiente, instalar dependências e rodar o aplicativo.
+- **Estrutura do projeto:** Mostra uma visão geral da organização dos arquivos no diretório.
+- **Notas sobre o uso de `yt-dlp`:** Enfatiza a importância de usar o aplicativo dentro das leis de direitos autorais.
+- **Licença:** Coloquei como licença MIT por padrão, mas você pode ajustá-la de acordo com a licença que preferir.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Se precisar de mais ajustes ou adicionar mais detalhes, é só me avisar!

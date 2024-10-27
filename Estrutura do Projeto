@@ -1,0 +1,7 @@
+/Baixar video YOUTUBE
+├── yt_dlp_downloader.py        # Arquivo principal que inicia o app
+├── yt_dlp_downloader_logic.py  # Lógica de download e manipulação do vídeo
+├── gui.py                      # Interface gráfica
+├── utils.py                    # Funções auxiliares
+├── README.md                   # Instruções do app
+└── __pycache__                 # Cache do Python (gerado automaticamente)
