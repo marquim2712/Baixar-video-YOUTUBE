@@ -22,7 +22,7 @@ pip install -r requirements.txt
 Como Executar o Aplicativo
 Faça o download ou clone este repositório.
 
-git clone https://github.com/seu-usuario/youtube-downloader.git
+git clone https://github.com/marquim2712/Baixar-video-YOUTUBE
 cd youtube-downloader
 Execute o aplicativo com o seguinte comando:
 
